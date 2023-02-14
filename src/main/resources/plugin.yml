@@ -1,0 +1,7 @@
+name: XPMultiplier
+version: '${project.version}'
+main: me.engineerdave.xpmultiplier.XPMultiplier
+api-version: 1.19
+authors: [ Engineer_Dave ]
+description: Players with a permission node will get a multiplier bonus on any XP they pick up while on server.
+website: https://github.com/engdave
